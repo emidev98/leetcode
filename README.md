@@ -4,9 +4,10 @@ Solutions written by me for Leetcode problems, mainly to do not forget how to wr
 
 ### Table of content
 
-| Item                                      | Date       | Type       
-| :---------------------------------------- | :--------: | :----:
-| 1. Two Sum                                | 2025-03-01 | EASY
-| 26. Remove Duplicates from Sorted Array   | 2025-03-01 | EASY
-| 22460. Apply Operations to an Array       | 2025-03-01 | EASY
+| Item                                      | Date       | Type    | TESTS PASS  |
+| :---------------------------------------- | :--------: | :-----: | :---------: |      
+| 1. Two Sum                                | 2025-03-01 | EASY    | 63 / 63     |
+| 2. Add two numbers                        | 2025-03-02 | MEDIUM  | 1565 / 1569 |
+| 26. Remove Duplicates from Sorted Array   | 2025-03-01 | EASY    | 362 / 362   |
+| 2460. Apply Operations to an Array        | 2025-03-01 | EAS     | 36 / 36     |
 
